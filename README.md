@@ -1,2 +1,2 @@
 # Football Detector
-AI That Sees the Ball – Football Detector for Images & Videos
+This project uses YOLOv8 to detect footballs in images or videos.
